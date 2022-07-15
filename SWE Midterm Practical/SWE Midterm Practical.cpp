@@ -99,7 +99,7 @@ int main()
 
 	Counter(grade, questions);
 
-	cout << "Q3: Who are you?" << "\n1.Me\n2.You\n3.Everyone\n4.Nobody" << "\n\n" << ">";
+	cout << "Q3: Who are you?" << "\n1.Me\n2.You\n3.Everyone\n4.Alice" << "\n\n" << ">";
 	int question3;
 	string answer3 = "I'm glad you know who you are.";
 	questions += 1;
